@@ -2005,6 +2005,2006 @@ public class TheProgram {
 			System.out.println("number is odd");
 		} else if (number == 1000) {
 			System.out.println("number is even");
+		} else if (number == 1001) {
+			System.out.println("number is odd");
+		} else if (number == 1002) {
+			System.out.println("number is even");
+		} else if (number == 1003) {
+			System.out.println("number is odd");
+		} else if (number == 1004) {
+			System.out.println("number is even");
+		} else if (number == 1005) {
+			System.out.println("number is odd");
+		} else if (number == 1006) {
+			System.out.println("number is even");
+		} else if (number == 1007) {
+			System.out.println("number is odd");
+		} else if (number == 1008) {
+			System.out.println("number is even");
+		} else if (number == 1009) {
+			System.out.println("number is odd");
+		} else if (number == 1010) {
+			System.out.println("number is even");
+		} else if (number == 1011) {
+			System.out.println("number is odd");
+		} else if (number == 1012) {
+			System.out.println("number is even");
+		} else if (number == 1013) {
+			System.out.println("number is odd");
+		} else if (number == 1014) {
+			System.out.println("number is even");
+		} else if (number == 1015) {
+			System.out.println("number is odd");
+		} else if (number == 1016) {
+			System.out.println("number is even");
+		} else if (number == 1017) {
+			System.out.println("number is odd");
+		} else if (number == 1018) {
+			System.out.println("number is even");
+		} else if (number == 1019) {
+			System.out.println("number is odd");
+		} else if (number == 1020) {
+			System.out.println("number is even");
+		} else if (number == 1021) {
+			System.out.println("number is odd");
+		} else if (number == 1022) {
+			System.out.println("number is even");
+		} else if (number == 1023) {
+			System.out.println("number is odd");
+		} else if (number == 1024) {
+			System.out.println("number is even");
+		} else if (number == 1025) {
+			System.out.println("number is odd");
+		} else if (number == 1026) {
+			System.out.println("number is even");
+		} else if (number == 1027) {
+			System.out.println("number is odd");
+		} else if (number == 1028) {
+			System.out.println("number is even");
+		} else if (number == 1029) {
+			System.out.println("number is odd");
+		} else if (number == 1030) {
+			System.out.println("number is even");
+		} else if (number == 1031) {
+			System.out.println("number is odd");
+		} else if (number == 1032) {
+			System.out.println("number is even");
+		} else if (number == 1033) {
+			System.out.println("number is odd");
+		} else if (number == 1034) {
+			System.out.println("number is even");
+		} else if (number == 1035) {
+			System.out.println("number is odd");
+		} else if (number == 1036) {
+			System.out.println("number is even");
+		} else if (number == 1037) {
+			System.out.println("number is odd");
+		} else if (number == 1038) {
+			System.out.println("number is even");
+		} else if (number == 1039) {
+			System.out.println("number is odd");
+		} else if (number == 1040) {
+			System.out.println("number is even");
+		} else if (number == 1041) {
+			System.out.println("number is odd");
+		} else if (number == 1042) {
+			System.out.println("number is even");
+		} else if (number == 1043) {
+			System.out.println("number is odd");
+		} else if (number == 1044) {
+			System.out.println("number is even");
+		} else if (number == 1045) {
+			System.out.println("number is odd");
+		} else if (number == 1046) {
+			System.out.println("number is even");
+		} else if (number == 1047) {
+			System.out.println("number is odd");
+		} else if (number == 1048) {
+			System.out.println("number is even");
+		} else if (number == 1049) {
+			System.out.println("number is odd");
+		} else if (number == 1050) {
+			System.out.println("number is even");
+		} else if (number == 1051) {
+			System.out.println("number is odd");
+		} else if (number == 1052) {
+			System.out.println("number is even");
+		} else if (number == 1053) {
+			System.out.println("number is odd");
+		} else if (number == 1054) {
+			System.out.println("number is even");
+		} else if (number == 1055) {
+			System.out.println("number is odd");
+		} else if (number == 1056) {
+			System.out.println("number is even");
+		} else if (number == 1057) {
+			System.out.println("number is odd");
+		} else if (number == 1058) {
+			System.out.println("number is even");
+		} else if (number == 1059) {
+			System.out.println("number is odd");
+		} else if (number == 1060) {
+			System.out.println("number is even");
+		} else if (number == 1061) {
+			System.out.println("number is odd");
+		} else if (number == 1062) {
+			System.out.println("number is even");
+		} else if (number == 1063) {
+			System.out.println("number is odd");
+		} else if (number == 1064) {
+			System.out.println("number is even");
+		} else if (number == 1065) {
+			System.out.println("number is odd");
+		} else if (number == 1066) {
+			System.out.println("number is even");
+		} else if (number == 1067) {
+			System.out.println("number is odd");
+		} else if (number == 1068) {
+			System.out.println("number is even");
+		} else if (number == 1069) {
+			System.out.println("number is odd");
+		} else if (number == 1070) {
+			System.out.println("number is even");
+		} else if (number == 1071) {
+			System.out.println("number is odd");
+		} else if (number == 1072) {
+			System.out.println("number is even");
+		} else if (number == 1073) {
+			System.out.println("number is odd");
+		} else if (number == 1074) {
+			System.out.println("number is even");
+		} else if (number == 1075) {
+			System.out.println("number is odd");
+		} else if (number == 1076) {
+			System.out.println("number is even");
+		} else if (number == 1077) {
+			System.out.println("number is odd");
+		} else if (number == 1078) {
+			System.out.println("number is even");
+		} else if (number == 1079) {
+			System.out.println("number is odd");
+		} else if (number == 1080) {
+			System.out.println("number is even");
+		} else if (number == 1081) {
+			System.out.println("number is odd");
+		} else if (number == 1082) {
+			System.out.println("number is even");
+		} else if (number == 1083) {
+			System.out.println("number is odd");
+		} else if (number == 1084) {
+			System.out.println("number is even");
+		} else if (number == 1085) {
+			System.out.println("number is odd");
+		} else if (number == 1086) {
+			System.out.println("number is even");
+		} else if (number == 1087) {
+			System.out.println("number is odd");
+		} else if (number == 1088) {
+			System.out.println("number is even");
+		} else if (number == 1089) {
+			System.out.println("number is odd");
+		} else if (number == 1090) {
+			System.out.println("number is even");
+		} else if (number == 1091) {
+			System.out.println("number is odd");
+		} else if (number == 1092) {
+			System.out.println("number is even");
+		} else if (number == 1093) {
+			System.out.println("number is odd");
+		} else if (number == 1094) {
+			System.out.println("number is even");
+		} else if (number == 1095) {
+			System.out.println("number is odd");
+		} else if (number == 1096) {
+			System.out.println("number is even");
+		} else if (number == 1097) {
+			System.out.println("number is odd");
+		} else if (number == 1098) {
+			System.out.println("number is even");
+		} else if (number == 1099) {
+			System.out.println("number is odd");
+		} else if (number == 1100) {
+			System.out.println("number is even");
+		} else if (number == 1101) {
+			System.out.println("number is odd");
+		} else if (number == 1102) {
+			System.out.println("number is even");
+		} else if (number == 1103) {
+			System.out.println("number is odd");
+		} else if (number == 1104) {
+			System.out.println("number is even");
+		} else if (number == 1105) {
+			System.out.println("number is odd");
+		} else if (number == 1106) {
+			System.out.println("number is even");
+		} else if (number == 1107) {
+			System.out.println("number is odd");
+		} else if (number == 1108) {
+			System.out.println("number is even");
+		} else if (number == 1109) {
+			System.out.println("number is odd");
+		} else if (number == 1110) {
+			System.out.println("number is even");
+		} else if (number == 1111) {
+			System.out.println("number is odd");
+		} else if (number == 1112) {
+			System.out.println("number is even");
+		} else if (number == 1113) {
+			System.out.println("number is odd");
+		} else if (number == 1114) {
+			System.out.println("number is even");
+		} else if (number == 1115) {
+			System.out.println("number is odd");
+		} else if (number == 1116) {
+			System.out.println("number is even");
+		} else if (number == 1117) {
+			System.out.println("number is odd");
+		} else if (number == 1118) {
+			System.out.println("number is even");
+		} else if (number == 1119) {
+			System.out.println("number is odd");
+		} else if (number == 1120) {
+			System.out.println("number is even");
+		} else if (number == 1121) {
+			System.out.println("number is odd");
+		} else if (number == 1122) {
+			System.out.println("number is even");
+		} else if (number == 1123) {
+			System.out.println("number is odd");
+		} else if (number == 1124) {
+			System.out.println("number is even");
+		} else if (number == 1125) {
+			System.out.println("number is odd");
+		} else if (number == 1126) {
+			System.out.println("number is even");
+		} else if (number == 1127) {
+			System.out.println("number is odd");
+		} else if (number == 1128) {
+			System.out.println("number is even");
+		} else if (number == 1129) {
+			System.out.println("number is odd");
+		} else if (number == 1130) {
+			System.out.println("number is even");
+		} else if (number == 1131) {
+			System.out.println("number is odd");
+		} else if (number == 1132) {
+			System.out.println("number is even");
+		} else if (number == 1133) {
+			System.out.println("number is odd");
+		} else if (number == 1134) {
+			System.out.println("number is even");
+		} else if (number == 1135) {
+			System.out.println("number is odd");
+		} else if (number == 1136) {
+			System.out.println("number is even");
+		} else if (number == 1137) {
+			System.out.println("number is odd");
+		} else if (number == 1138) {
+			System.out.println("number is even");
+		} else if (number == 1139) {
+			System.out.println("number is odd");
+		} else if (number == 1140) {
+			System.out.println("number is even");
+		} else if (number == 1141) {
+			System.out.println("number is odd");
+		} else if (number == 1142) {
+			System.out.println("number is even");
+		} else if (number == 1143) {
+			System.out.println("number is odd");
+		} else if (number == 1144) {
+			System.out.println("number is even");
+		} else if (number == 1145) {
+			System.out.println("number is odd");
+		} else if (number == 1146) {
+			System.out.println("number is even");
+		} else if (number == 1147) {
+			System.out.println("number is odd");
+		} else if (number == 1148) {
+			System.out.println("number is even");
+		} else if (number == 1149) {
+			System.out.println("number is odd");
+		} else if (number == 1150) {
+			System.out.println("number is even");
+		} else if (number == 1151) {
+			System.out.println("number is odd");
+		} else if (number == 1152) {
+			System.out.println("number is even");
+		} else if (number == 1153) {
+			System.out.println("number is odd");
+		} else if (number == 1154) {
+			System.out.println("number is even");
+		} else if (number == 1155) {
+			System.out.println("number is odd");
+		} else if (number == 1156) {
+			System.out.println("number is even");
+		} else if (number == 1157) {
+			System.out.println("number is odd");
+		} else if (number == 1158) {
+			System.out.println("number is even");
+		} else if (number == 1159) {
+			System.out.println("number is odd");
+		} else if (number == 1160) {
+			System.out.println("number is even");
+		} else if (number == 1161) {
+			System.out.println("number is odd");
+		} else if (number == 1162) {
+			System.out.println("number is even");
+		} else if (number == 1163) {
+			System.out.println("number is odd");
+		} else if (number == 1164) {
+			System.out.println("number is even");
+		} else if (number == 1165) {
+			System.out.println("number is odd");
+		} else if (number == 1166) {
+			System.out.println("number is even");
+		} else if (number == 1167) {
+			System.out.println("number is odd");
+		} else if (number == 1168) {
+			System.out.println("number is even");
+		} else if (number == 1169) {
+			System.out.println("number is odd");
+		} else if (number == 1170) {
+			System.out.println("number is even");
+		} else if (number == 1171) {
+			System.out.println("number is odd");
+		} else if (number == 1172) {
+			System.out.println("number is even");
+		} else if (number == 1173) {
+			System.out.println("number is odd");
+		} else if (number == 1174) {
+			System.out.println("number is even");
+		} else if (number == 1175) {
+			System.out.println("number is odd");
+		} else if (number == 1176) {
+			System.out.println("number is even");
+		} else if (number == 1177) {
+			System.out.println("number is odd");
+		} else if (number == 1178) {
+			System.out.println("number is even");
+		} else if (number == 1179) {
+			System.out.println("number is odd");
+		} else if (number == 1180) {
+			System.out.println("number is even");
+		} else if (number == 1181) {
+			System.out.println("number is odd");
+		} else if (number == 1182) {
+			System.out.println("number is even");
+		} else if (number == 1183) {
+			System.out.println("number is odd");
+		} else if (number == 1184) {
+			System.out.println("number is even");
+		} else if (number == 1185) {
+			System.out.println("number is odd");
+		} else if (number == 1186) {
+			System.out.println("number is even");
+		} else if (number == 1187) {
+			System.out.println("number is odd");
+		} else if (number == 1188) {
+			System.out.println("number is even");
+		} else if (number == 1189) {
+			System.out.println("number is odd");
+		} else if (number == 1190) {
+			System.out.println("number is even");
+		} else if (number == 1191) {
+			System.out.println("number is odd");
+		} else if (number == 1192) {
+			System.out.println("number is even");
+		} else if (number == 1193) {
+			System.out.println("number is odd");
+		} else if (number == 1194) {
+			System.out.println("number is even");
+		} else if (number == 1195) {
+			System.out.println("number is odd");
+		} else if (number == 1196) {
+			System.out.println("number is even");
+		} else if (number == 1197) {
+			System.out.println("number is odd");
+		} else if (number == 1198) {
+			System.out.println("number is even");
+		} else if (number == 1199) {
+			System.out.println("number is odd");
+		} else if (number == 1200) {
+			System.out.println("number is even");
+		} else if (number == 1201) {
+			System.out.println("number is odd");
+		} else if (number == 1202) {
+			System.out.println("number is even");
+		} else if (number == 1203) {
+			System.out.println("number is odd");
+		} else if (number == 1204) {
+			System.out.println("number is even");
+		} else if (number == 1205) {
+			System.out.println("number is odd");
+		} else if (number == 1206) {
+			System.out.println("number is even");
+		} else if (number == 1207) {
+			System.out.println("number is odd");
+		} else if (number == 1208) {
+			System.out.println("number is even");
+		} else if (number == 1209) {
+			System.out.println("number is odd");
+		} else if (number == 1210) {
+			System.out.println("number is even");
+		} else if (number == 1211) {
+			System.out.println("number is odd");
+		} else if (number == 1212) {
+			System.out.println("number is even");
+		} else if (number == 1213) {
+			System.out.println("number is odd");
+		} else if (number == 1214) {
+			System.out.println("number is even");
+		} else if (number == 1215) {
+			System.out.println("number is odd");
+		} else if (number == 1216) {
+			System.out.println("number is even");
+		} else if (number == 1217) {
+			System.out.println("number is odd");
+		} else if (number == 1218) {
+			System.out.println("number is even");
+		} else if (number == 1219) {
+			System.out.println("number is odd");
+		} else if (number == 1220) {
+			System.out.println("number is even");
+		} else if (number == 1221) {
+			System.out.println("number is odd");
+		} else if (number == 1222) {
+			System.out.println("number is even");
+		} else if (number == 1223) {
+			System.out.println("number is odd");
+		} else if (number == 1224) {
+			System.out.println("number is even");
+		} else if (number == 1225) {
+			System.out.println("number is odd");
+		} else if (number == 1226) {
+			System.out.println("number is even");
+		} else if (number == 1227) {
+			System.out.println("number is odd");
+		} else if (number == 1228) {
+			System.out.println("number is even");
+		} else if (number == 1229) {
+			System.out.println("number is odd");
+		} else if (number == 1230) {
+			System.out.println("number is even");
+		} else if (number == 1231) {
+			System.out.println("number is odd");
+		} else if (number == 1232) {
+			System.out.println("number is even");
+		} else if (number == 1233) {
+			System.out.println("number is odd");
+		} else if (number == 1234) {
+			System.out.println("number is even");
+		} else if (number == 1235) {
+			System.out.println("number is odd");
+		} else if (number == 1236) {
+			System.out.println("number is even");
+		} else if (number == 1237) {
+			System.out.println("number is odd");
+		} else if (number == 1238) {
+			System.out.println("number is even");
+		} else if (number == 1239) {
+			System.out.println("number is odd");
+		} else if (number == 1240) {
+			System.out.println("number is even");
+		} else if (number == 1241) {
+			System.out.println("number is odd");
+		} else if (number == 1242) {
+			System.out.println("number is even");
+		} else if (number == 1243) {
+			System.out.println("number is odd");
+		} else if (number == 1244) {
+			System.out.println("number is even");
+		} else if (number == 1245) {
+			System.out.println("number is odd");
+		} else if (number == 1246) {
+			System.out.println("number is even");
+		} else if (number == 1247) {
+			System.out.println("number is odd");
+		} else if (number == 1248) {
+			System.out.println("number is even");
+		} else if (number == 1249) {
+			System.out.println("number is odd");
+		} else if (number == 1250) {
+			System.out.println("number is even");
+		} else if (number == 1251) {
+			System.out.println("number is odd");
+		} else if (number == 1252) {
+			System.out.println("number is even");
+		} else if (number == 1253) {
+			System.out.println("number is odd");
+		} else if (number == 1254) {
+			System.out.println("number is even");
+		} else if (number == 1255) {
+			System.out.println("number is odd");
+		} else if (number == 1256) {
+			System.out.println("number is even");
+		} else if (number == 1257) {
+			System.out.println("number is odd");
+		} else if (number == 1258) {
+			System.out.println("number is even");
+		} else if (number == 1259) {
+			System.out.println("number is odd");
+		} else if (number == 1260) {
+			System.out.println("number is even");
+		} else if (number == 1261) {
+			System.out.println("number is odd");
+		} else if (number == 1262) {
+			System.out.println("number is even");
+		} else if (number == 1263) {
+			System.out.println("number is odd");
+		} else if (number == 1264) {
+			System.out.println("number is even");
+		} else if (number == 1265) {
+			System.out.println("number is odd");
+		} else if (number == 1266) {
+			System.out.println("number is even");
+		} else if (number == 1267) {
+			System.out.println("number is odd");
+		} else if (number == 1268) {
+			System.out.println("number is even");
+		} else if (number == 1269) {
+			System.out.println("number is odd");
+		} else if (number == 1270) {
+			System.out.println("number is even");
+		} else if (number == 1271) {
+			System.out.println("number is odd");
+		} else if (number == 1272) {
+			System.out.println("number is even");
+		} else if (number == 1273) {
+			System.out.println("number is odd");
+		} else if (number == 1274) {
+			System.out.println("number is even");
+		} else if (number == 1275) {
+			System.out.println("number is odd");
+		} else if (number == 1276) {
+			System.out.println("number is even");
+		} else if (number == 1277) {
+			System.out.println("number is odd");
+		} else if (number == 1278) {
+			System.out.println("number is even");
+		} else if (number == 1279) {
+			System.out.println("number is odd");
+		} else if (number == 1280) {
+			System.out.println("number is even");
+		} else if (number == 1281) {
+			System.out.println("number is odd");
+		} else if (number == 1282) {
+			System.out.println("number is even");
+		} else if (number == 1283) {
+			System.out.println("number is odd");
+		} else if (number == 1284) {
+			System.out.println("number is even");
+		} else if (number == 1285) {
+			System.out.println("number is odd");
+		} else if (number == 1286) {
+			System.out.println("number is even");
+		} else if (number == 1287) {
+			System.out.println("number is odd");
+		} else if (number == 1288) {
+			System.out.println("number is even");
+		} else if (number == 1289) {
+			System.out.println("number is odd");
+		} else if (number == 1290) {
+			System.out.println("number is even");
+		} else if (number == 1291) {
+			System.out.println("number is odd");
+		} else if (number == 1292) {
+			System.out.println("number is even");
+		} else if (number == 1293) {
+			System.out.println("number is odd");
+		} else if (number == 1294) {
+			System.out.println("number is even");
+		} else if (number == 1295) {
+			System.out.println("number is odd");
+		} else if (number == 1296) {
+			System.out.println("number is even");
+		} else if (number == 1297) {
+			System.out.println("number is odd");
+		} else if (number == 1298) {
+			System.out.println("number is even");
+		} else if (number == 1299) {
+			System.out.println("number is odd");
+		} else if (number == 1300) {
+			System.out.println("number is even");
+		} else if (number == 1301) {
+			System.out.println("number is odd");
+		} else if (number == 1302) {
+			System.out.println("number is even");
+		} else if (number == 1303) {
+			System.out.println("number is odd");
+		} else if (number == 1304) {
+			System.out.println("number is even");
+		} else if (number == 1305) {
+			System.out.println("number is odd");
+		} else if (number == 1306) {
+			System.out.println("number is even");
+		} else if (number == 1307) {
+			System.out.println("number is odd");
+		} else if (number == 1308) {
+			System.out.println("number is even");
+		} else if (number == 1309) {
+			System.out.println("number is odd");
+		} else if (number == 1310) {
+			System.out.println("number is even");
+		} else if (number == 1311) {
+			System.out.println("number is odd");
+		} else if (number == 1312) {
+			System.out.println("number is even");
+		} else if (number == 1313) {
+			System.out.println("number is odd");
+		} else if (number == 1314) {
+			System.out.println("number is even");
+		} else if (number == 1315) {
+			System.out.println("number is odd");
+		} else if (number == 1316) {
+			System.out.println("number is even");
+		} else if (number == 1317) {
+			System.out.println("number is odd");
+		} else if (number == 1318) {
+			System.out.println("number is even");
+		} else if (number == 1319) {
+			System.out.println("number is odd");
+		} else if (number == 1320) {
+			System.out.println("number is even");
+		} else if (number == 1321) {
+			System.out.println("number is odd");
+		} else if (number == 1322) {
+			System.out.println("number is even");
+		} else if (number == 1323) {
+			System.out.println("number is odd");
+		} else if (number == 1324) {
+			System.out.println("number is even");
+		} else if (number == 1325) {
+			System.out.println("number is odd");
+		} else if (number == 1326) {
+			System.out.println("number is even");
+		} else if (number == 1327) {
+			System.out.println("number is odd");
+		} else if (number == 1328) {
+			System.out.println("number is even");
+		} else if (number == 1329) {
+			System.out.println("number is odd");
+		} else if (number == 1330) {
+			System.out.println("number is even");
+		} else if (number == 1331) {
+			System.out.println("number is odd");
+		} else if (number == 1332) {
+			System.out.println("number is even");
+		} else if (number == 1333) {
+			System.out.println("number is odd");
+		} else if (number == 1334) {
+			System.out.println("number is even");
+		} else if (number == 1335) {
+			System.out.println("number is odd");
+		} else if (number == 1336) {
+			System.out.println("number is even");
+		} else if (number == 1337) {
+			System.out.println("number is odd");
+		} else if (number == 1338) {
+			System.out.println("number is even");
+		} else if (number == 1339) {
+			System.out.println("number is odd");
+		} else if (number == 1340) {
+			System.out.println("number is even");
+		} else if (number == 1341) {
+			System.out.println("number is odd");
+		} else if (number == 1342) {
+			System.out.println("number is even");
+		} else if (number == 1343) {
+			System.out.println("number is odd");
+		} else if (number == 1344) {
+			System.out.println("number is even");
+		} else if (number == 1345) {
+			System.out.println("number is odd");
+		} else if (number == 1346) {
+			System.out.println("number is even");
+		} else if (number == 1347) {
+			System.out.println("number is odd");
+		} else if (number == 1348) {
+			System.out.println("number is even");
+		} else if (number == 1349) {
+			System.out.println("number is odd");
+		} else if (number == 1350) {
+			System.out.println("number is even");
+		} else if (number == 1351) {
+			System.out.println("number is odd");
+		} else if (number == 1352) {
+			System.out.println("number is even");
+		} else if (number == 1353) {
+			System.out.println("number is odd");
+		} else if (number == 1354) {
+			System.out.println("number is even");
+		} else if (number == 1355) {
+			System.out.println("number is odd");
+		} else if (number == 1356) {
+			System.out.println("number is even");
+		} else if (number == 1357) {
+			System.out.println("number is odd");
+		} else if (number == 1358) {
+			System.out.println("number is even");
+		} else if (number == 1359) {
+			System.out.println("number is odd");
+		} else if (number == 1360) {
+			System.out.println("number is even");
+		} else if (number == 1361) {
+			System.out.println("number is odd");
+		} else if (number == 1362) {
+			System.out.println("number is even");
+		} else if (number == 1363) {
+			System.out.println("number is odd");
+		} else if (number == 1364) {
+			System.out.println("number is even");
+		} else if (number == 1365) {
+			System.out.println("number is odd");
+		} else if (number == 1366) {
+			System.out.println("number is even");
+		} else if (number == 1367) {
+			System.out.println("number is odd");
+		} else if (number == 1368) {
+			System.out.println("number is even");
+		} else if (number == 1369) {
+			System.out.println("number is odd");
+		} else if (number == 1370) {
+			System.out.println("number is even");
+		} else if (number == 1371) {
+			System.out.println("number is odd");
+		} else if (number == 1372) {
+			System.out.println("number is even");
+		} else if (number == 1373) {
+			System.out.println("number is odd");
+		} else if (number == 1374) {
+			System.out.println("number is even");
+		} else if (number == 1375) {
+			System.out.println("number is odd");
+		} else if (number == 1376) {
+			System.out.println("number is even");
+		} else if (number == 1377) {
+			System.out.println("number is odd");
+		} else if (number == 1378) {
+			System.out.println("number is even");
+		} else if (number == 1379) {
+			System.out.println("number is odd");
+		} else if (number == 1380) {
+			System.out.println("number is even");
+		} else if (number == 1381) {
+			System.out.println("number is odd");
+		} else if (number == 1382) {
+			System.out.println("number is even");
+		} else if (number == 1383) {
+			System.out.println("number is odd");
+		} else if (number == 1384) {
+			System.out.println("number is even");
+		} else if (number == 1385) {
+			System.out.println("number is odd");
+		} else if (number == 1386) {
+			System.out.println("number is even");
+		} else if (number == 1387) {
+			System.out.println("number is odd");
+		} else if (number == 1388) {
+			System.out.println("number is even");
+		} else if (number == 1389) {
+			System.out.println("number is odd");
+		} else if (number == 1390) {
+			System.out.println("number is even");
+		} else if (number == 1391) {
+			System.out.println("number is odd");
+		} else if (number == 1392) {
+			System.out.println("number is even");
+		} else if (number == 1393) {
+			System.out.println("number is odd");
+		} else if (number == 1394) {
+			System.out.println("number is even");
+		} else if (number == 1395) {
+			System.out.println("number is odd");
+		} else if (number == 1396) {
+			System.out.println("number is even");
+		} else if (number == 1397) {
+			System.out.println("number is odd");
+		} else if (number == 1398) {
+			System.out.println("number is even");
+		} else if (number == 1399) {
+			System.out.println("number is odd");
+		} else if (number == 1400) {
+			System.out.println("number is even");
+		} else if (number == 1401) {
+			System.out.println("number is odd");
+		} else if (number == 1402) {
+			System.out.println("number is even");
+		} else if (number == 1403) {
+			System.out.println("number is odd");
+		} else if (number == 1404) {
+			System.out.println("number is even");
+		} else if (number == 1405) {
+			System.out.println("number is odd");
+		} else if (number == 1406) {
+			System.out.println("number is even");
+		} else if (number == 1407) {
+			System.out.println("number is odd");
+		} else if (number == 1408) {
+			System.out.println("number is even");
+		} else if (number == 1409) {
+			System.out.println("number is odd");
+		} else if (number == 1410) {
+			System.out.println("number is even");
+		} else if (number == 1411) {
+			System.out.println("number is odd");
+		} else if (number == 1412) {
+			System.out.println("number is even");
+		} else if (number == 1413) {
+			System.out.println("number is odd");
+		} else if (number == 1414) {
+			System.out.println("number is even");
+		} else if (number == 1415) {
+			System.out.println("number is odd");
+		} else if (number == 1416) {
+			System.out.println("number is even");
+		} else if (number == 1417) {
+			System.out.println("number is odd");
+		} else if (number == 1418) {
+			System.out.println("number is even");
+		} else if (number == 1419) {
+			System.out.println("number is odd");
+		} else if (number == 1420) {
+			System.out.println("number is even");
+		} else if (number == 1421) {
+			System.out.println("number is odd");
+		} else if (number == 1422) {
+			System.out.println("number is even");
+		} else if (number == 1423) {
+			System.out.println("number is odd");
+		} else if (number == 1424) {
+			System.out.println("number is even");
+		} else if (number == 1425) {
+			System.out.println("number is odd");
+		} else if (number == 1426) {
+			System.out.println("number is even");
+		} else if (number == 1427) {
+			System.out.println("number is odd");
+		} else if (number == 1428) {
+			System.out.println("number is even");
+		} else if (number == 1429) {
+			System.out.println("number is odd");
+		} else if (number == 1430) {
+			System.out.println("number is even");
+		} else if (number == 1431) {
+			System.out.println("number is odd");
+		} else if (number == 1432) {
+			System.out.println("number is even");
+		} else if (number == 1433) {
+			System.out.println("number is odd");
+		} else if (number == 1434) {
+			System.out.println("number is even");
+		} else if (number == 1435) {
+			System.out.println("number is odd");
+		} else if (number == 1436) {
+			System.out.println("number is even");
+		} else if (number == 1437) {
+			System.out.println("number is odd");
+		} else if (number == 1438) {
+			System.out.println("number is even");
+		} else if (number == 1439) {
+			System.out.println("number is odd");
+		} else if (number == 1440) {
+			System.out.println("number is even");
+		} else if (number == 1441) {
+			System.out.println("number is odd");
+		} else if (number == 1442) {
+			System.out.println("number is even");
+		} else if (number == 1443) {
+			System.out.println("number is odd");
+		} else if (number == 1444) {
+			System.out.println("number is even");
+		} else if (number == 1445) {
+			System.out.println("number is odd");
+		} else if (number == 1446) {
+			System.out.println("number is even");
+		} else if (number == 1447) {
+			System.out.println("number is odd");
+		} else if (number == 1448) {
+			System.out.println("number is even");
+		} else if (number == 1449) {
+			System.out.println("number is odd");
+		} else if (number == 1450) {
+			System.out.println("number is even");
+		} else if (number == 1451) {
+			System.out.println("number is odd");
+		} else if (number == 1452) {
+			System.out.println("number is even");
+		} else if (number == 1453) {
+			System.out.println("number is odd");
+		} else if (number == 1454) {
+			System.out.println("number is even");
+		} else if (number == 1455) {
+			System.out.println("number is odd");
+		} else if (number == 1456) {
+			System.out.println("number is even");
+		} else if (number == 1457) {
+			System.out.println("number is odd");
+		} else if (number == 1458) {
+			System.out.println("number is even");
+		} else if (number == 1459) {
+			System.out.println("number is odd");
+		} else if (number == 1460) {
+			System.out.println("number is even");
+		} else if (number == 1461) {
+			System.out.println("number is odd");
+		} else if (number == 1462) {
+			System.out.println("number is even");
+		} else if (number == 1463) {
+			System.out.println("number is odd");
+		} else if (number == 1464) {
+			System.out.println("number is even");
+		} else if (number == 1465) {
+			System.out.println("number is odd");
+		} else if (number == 1466) {
+			System.out.println("number is even");
+		} else if (number == 1467) {
+			System.out.println("number is odd");
+		} else if (number == 1468) {
+			System.out.println("number is even");
+		} else if (number == 1469) {
+			System.out.println("number is odd");
+		} else if (number == 1470) {
+			System.out.println("number is even");
+		} else if (number == 1471) {
+			System.out.println("number is odd");
+		} else if (number == 1472) {
+			System.out.println("number is even");
+		} else if (number == 1473) {
+			System.out.println("number is odd");
+		} else if (number == 1474) {
+			System.out.println("number is even");
+		} else if (number == 1475) {
+			System.out.println("number is odd");
+		} else if (number == 1476) {
+			System.out.println("number is even");
+		} else if (number == 1477) {
+			System.out.println("number is odd");
+		} else if (number == 1478) {
+			System.out.println("number is even");
+		} else if (number == 1479) {
+			System.out.println("number is odd");
+		} else if (number == 1480) {
+			System.out.println("number is even");
+		} else if (number == 1481) {
+			System.out.println("number is odd");
+		} else if (number == 1482) {
+			System.out.println("number is even");
+		} else if (number == 1483) {
+			System.out.println("number is odd");
+		} else if (number == 1484) {
+			System.out.println("number is even");
+		} else if (number == 1485) {
+			System.out.println("number is odd");
+		} else if (number == 1486) {
+			System.out.println("number is even");
+		} else if (number == 1487) {
+			System.out.println("number is odd");
+		} else if (number == 1488) {
+			System.out.println("number is even");
+		} else if (number == 1489) {
+			System.out.println("number is odd");
+		} else if (number == 1490) {
+			System.out.println("number is even");
+		} else if (number == 1491) {
+			System.out.println("number is odd");
+		} else if (number == 1492) {
+			System.out.println("number is even");
+		} else if (number == 1493) {
+			System.out.println("number is odd");
+		} else if (number == 1494) {
+			System.out.println("number is even");
+		} else if (number == 1495) {
+			System.out.println("number is odd");
+		} else if (number == 1496) {
+			System.out.println("number is even");
+		} else if (number == 1497) {
+			System.out.println("number is odd");
+		} else if (number == 1498) {
+			System.out.println("number is even");
+		} else if (number == 1499) {
+			System.out.println("number is odd");
+		} else if (number == 1500) {
+			System.out.println("number is even");
+		} else if (number == 1501) {
+			System.out.println("number is odd");
+		} else if (number == 1502) {
+			System.out.println("number is even");
+		} else if (number == 1503) {
+			System.out.println("number is odd");
+		} else if (number == 1504) {
+			System.out.println("number is even");
+		} else if (number == 1505) {
+			System.out.println("number is odd");
+		} else if (number == 1506) {
+			System.out.println("number is even");
+		} else if (number == 1507) {
+			System.out.println("number is odd");
+		} else if (number == 1508) {
+			System.out.println("number is even");
+		} else if (number == 1509) {
+			System.out.println("number is odd");
+		} else if (number == 1510) {
+			System.out.println("number is even");
+		} else if (number == 1511) {
+			System.out.println("number is odd");
+		} else if (number == 1512) {
+			System.out.println("number is even");
+		} else if (number == 1513) {
+			System.out.println("number is odd");
+		} else if (number == 1514) {
+			System.out.println("number is even");
+		} else if (number == 1515) {
+			System.out.println("number is odd");
+		} else if (number == 1516) {
+			System.out.println("number is even");
+		} else if (number == 1517) {
+			System.out.println("number is odd");
+		} else if (number == 1518) {
+			System.out.println("number is even");
+		} else if (number == 1519) {
+			System.out.println("number is odd");
+		} else if (number == 1520) {
+			System.out.println("number is even");
+		} else if (number == 1521) {
+			System.out.println("number is odd");
+		} else if (number == 1522) {
+			System.out.println("number is even");
+		} else if (number == 1523) {
+			System.out.println("number is odd");
+		} else if (number == 1524) {
+			System.out.println("number is even");
+		} else if (number == 1525) {
+			System.out.println("number is odd");
+		} else if (number == 1526) {
+			System.out.println("number is even");
+		} else if (number == 1527) {
+			System.out.println("number is odd");
+		} else if (number == 1528) {
+			System.out.println("number is even");
+		} else if (number == 1529) {
+			System.out.println("number is odd");
+		} else if (number == 1530) {
+			System.out.println("number is even");
+		} else if (number == 1531) {
+			System.out.println("number is odd");
+		} else if (number == 1532) {
+			System.out.println("number is even");
+		} else if (number == 1533) {
+			System.out.println("number is odd");
+		} else if (number == 1534) {
+			System.out.println("number is even");
+		} else if (number == 1535) {
+			System.out.println("number is odd");
+		} else if (number == 1536) {
+			System.out.println("number is even");
+		} else if (number == 1537) {
+			System.out.println("number is odd");
+		} else if (number == 1538) {
+			System.out.println("number is even");
+		} else if (number == 1539) {
+			System.out.println("number is odd");
+		} else if (number == 1540) {
+			System.out.println("number is even");
+		} else if (number == 1541) {
+			System.out.println("number is odd");
+		} else if (number == 1542) {
+			System.out.println("number is even");
+		} else if (number == 1543) {
+			System.out.println("number is odd");
+		} else if (number == 1544) {
+			System.out.println("number is even");
+		} else if (number == 1545) {
+			System.out.println("number is odd");
+		} else if (number == 1546) {
+			System.out.println("number is even");
+		} else if (number == 1547) {
+			System.out.println("number is odd");
+		} else if (number == 1548) {
+			System.out.println("number is even");
+		} else if (number == 1549) {
+			System.out.println("number is odd");
+		} else if (number == 1550) {
+			System.out.println("number is even");
+		} else if (number == 1551) {
+			System.out.println("number is odd");
+		} else if (number == 1552) {
+			System.out.println("number is even");
+		} else if (number == 1553) {
+			System.out.println("number is odd");
+		} else if (number == 1554) {
+			System.out.println("number is even");
+		} else if (number == 1555) {
+			System.out.println("number is odd");
+		} else if (number == 1556) {
+			System.out.println("number is even");
+		} else if (number == 1557) {
+			System.out.println("number is odd");
+		} else if (number == 1558) {
+			System.out.println("number is even");
+		} else if (number == 1559) {
+			System.out.println("number is odd");
+		} else if (number == 1560) {
+			System.out.println("number is even");
+		} else if (number == 1561) {
+			System.out.println("number is odd");
+		} else if (number == 1562) {
+			System.out.println("number is even");
+		} else if (number == 1563) {
+			System.out.println("number is odd");
+		} else if (number == 1564) {
+			System.out.println("number is even");
+		} else if (number == 1565) {
+			System.out.println("number is odd");
+		} else if (number == 1566) {
+			System.out.println("number is even");
+		} else if (number == 1567) {
+			System.out.println("number is odd");
+		} else if (number == 1568) {
+			System.out.println("number is even");
+		} else if (number == 1569) {
+			System.out.println("number is odd");
+		} else if (number == 1570) {
+			System.out.println("number is even");
+		} else if (number == 1571) {
+			System.out.println("number is odd");
+		} else if (number == 1572) {
+			System.out.println("number is even");
+		} else if (number == 1573) {
+			System.out.println("number is odd");
+		} else if (number == 1574) {
+			System.out.println("number is even");
+		} else if (number == 1575) {
+			System.out.println("number is odd");
+		} else if (number == 1576) {
+			System.out.println("number is even");
+		} else if (number == 1577) {
+			System.out.println("number is odd");
+		} else if (number == 1578) {
+			System.out.println("number is even");
+		} else if (number == 1579) {
+			System.out.println("number is odd");
+		} else if (number == 1580) {
+			System.out.println("number is even");
+		} else if (number == 1581) {
+			System.out.println("number is odd");
+		} else if (number == 1582) {
+			System.out.println("number is even");
+		} else if (number == 1583) {
+			System.out.println("number is odd");
+		} else if (number == 1584) {
+			System.out.println("number is even");
+		} else if (number == 1585) {
+			System.out.println("number is odd");
+		} else if (number == 1586) {
+			System.out.println("number is even");
+		} else if (number == 1587) {
+			System.out.println("number is odd");
+		} else if (number == 1588) {
+			System.out.println("number is even");
+		} else if (number == 1589) {
+			System.out.println("number is odd");
+		} else if (number == 1590) {
+			System.out.println("number is even");
+		} else if (number == 1591) {
+			System.out.println("number is odd");
+		} else if (number == 1592) {
+			System.out.println("number is even");
+		} else if (number == 1593) {
+			System.out.println("number is odd");
+		} else if (number == 1594) {
+			System.out.println("number is even");
+		} else if (number == 1595) {
+			System.out.println("number is odd");
+		} else if (number == 1596) {
+			System.out.println("number is even");
+		} else if (number == 1597) {
+			System.out.println("number is odd");
+		} else if (number == 1598) {
+			System.out.println("number is even");
+		} else if (number == 1599) {
+			System.out.println("number is odd");
+		} else if (number == 1600) {
+			System.out.println("number is even");
+		} else if (number == 1601) {
+			System.out.println("number is odd");
+		} else if (number == 1602) {
+			System.out.println("number is even");
+		} else if (number == 1603) {
+			System.out.println("number is odd");
+		} else if (number == 1604) {
+			System.out.println("number is even");
+		} else if (number == 1605) {
+			System.out.println("number is odd");
+		} else if (number == 1606) {
+			System.out.println("number is even");
+		} else if (number == 1607) {
+			System.out.println("number is odd");
+		} else if (number == 1608) {
+			System.out.println("number is even");
+		} else if (number == 1609) {
+			System.out.println("number is odd");
+		} else if (number == 1610) {
+			System.out.println("number is even");
+		} else if (number == 1611) {
+			System.out.println("number is odd");
+		} else if (number == 1612) {
+			System.out.println("number is even");
+		} else if (number == 1613) {
+			System.out.println("number is odd");
+		} else if (number == 1614) {
+			System.out.println("number is even");
+		} else if (number == 1615) {
+			System.out.println("number is odd");
+		} else if (number == 1616) {
+			System.out.println("number is even");
+		} else if (number == 1617) {
+			System.out.println("number is odd");
+		} else if (number == 1618) {
+			System.out.println("number is even");
+		} else if (number == 1619) {
+			System.out.println("number is odd");
+		} else if (number == 1620) {
+			System.out.println("number is even");
+		} else if (number == 1621) {
+			System.out.println("number is odd");
+		} else if (number == 1622) {
+			System.out.println("number is even");
+		} else if (number == 1623) {
+			System.out.println("number is odd");
+		} else if (number == 1624) {
+			System.out.println("number is even");
+		} else if (number == 1625) {
+			System.out.println("number is odd");
+		} else if (number == 1626) {
+			System.out.println("number is even");
+		} else if (number == 1627) {
+			System.out.println("number is odd");
+		} else if (number == 1628) {
+			System.out.println("number is even");
+		} else if (number == 1629) {
+			System.out.println("number is odd");
+		} else if (number == 1630) {
+			System.out.println("number is even");
+		} else if (number == 1631) {
+			System.out.println("number is odd");
+		} else if (number == 1632) {
+			System.out.println("number is even");
+		} else if (number == 1633) {
+			System.out.println("number is odd");
+		} else if (number == 1634) {
+			System.out.println("number is even");
+		} else if (number == 1635) {
+			System.out.println("number is odd");
+		} else if (number == 1636) {
+			System.out.println("number is even");
+		} else if (number == 1637) {
+			System.out.println("number is odd");
+		} else if (number == 1638) {
+			System.out.println("number is even");
+		} else if (number == 1639) {
+			System.out.println("number is odd");
+		} else if (number == 1640) {
+			System.out.println("number is even");
+		} else if (number == 1641) {
+			System.out.println("number is odd");
+		} else if (number == 1642) {
+			System.out.println("number is even");
+		} else if (number == 1643) {
+			System.out.println("number is odd");
+		} else if (number == 1644) {
+			System.out.println("number is even");
+		} else if (number == 1645) {
+			System.out.println("number is odd");
+		} else if (number == 1646) {
+			System.out.println("number is even");
+		} else if (number == 1647) {
+			System.out.println("number is odd");
+		} else if (number == 1648) {
+			System.out.println("number is even");
+		} else if (number == 1649) {
+			System.out.println("number is odd");
+		} else if (number == 1650) {
+			System.out.println("number is even");
+		} else if (number == 1651) {
+			System.out.println("number is odd");
+		} else if (number == 1652) {
+			System.out.println("number is even");
+		} else if (number == 1653) {
+			System.out.println("number is odd");
+		} else if (number == 1654) {
+			System.out.println("number is even");
+		} else if (number == 1655) {
+			System.out.println("number is odd");
+		} else if (number == 1656) {
+			System.out.println("number is even");
+		} else if (number == 1657) {
+			System.out.println("number is odd");
+		} else if (number == 1658) {
+			System.out.println("number is even");
+		} else if (number == 1659) {
+			System.out.println("number is odd");
+		} else if (number == 1660) {
+			System.out.println("number is even");
+		} else if (number == 1661) {
+			System.out.println("number is odd");
+		} else if (number == 1662) {
+			System.out.println("number is even");
+		} else if (number == 1663) {
+			System.out.println("number is odd");
+		} else if (number == 1664) {
+			System.out.println("number is even");
+		} else if (number == 1665) {
+			System.out.println("number is odd");
+		} else if (number == 1666) {
+			System.out.println("number is even");
+		} else if (number == 1667) {
+			System.out.println("number is odd");
+		} else if (number == 1668) {
+			System.out.println("number is even");
+		} else if (number == 1669) {
+			System.out.println("number is odd");
+		} else if (number == 1670) {
+			System.out.println("number is even");
+		} else if (number == 1671) {
+			System.out.println("number is odd");
+		} else if (number == 1672) {
+			System.out.println("number is even");
+		} else if (number == 1673) {
+			System.out.println("number is odd");
+		} else if (number == 1674) {
+			System.out.println("number is even");
+		} else if (number == 1675) {
+			System.out.println("number is odd");
+		} else if (number == 1676) {
+			System.out.println("number is even");
+		} else if (number == 1677) {
+			System.out.println("number is odd");
+		} else if (number == 1678) {
+			System.out.println("number is even");
+		} else if (number == 1679) {
+			System.out.println("number is odd");
+		} else if (number == 1680) {
+			System.out.println("number is even");
+		} else if (number == 1681) {
+			System.out.println("number is odd");
+		} else if (number == 1682) {
+			System.out.println("number is even");
+		} else if (number == 1683) {
+			System.out.println("number is odd");
+		} else if (number == 1684) {
+			System.out.println("number is even");
+		} else if (number == 1685) {
+			System.out.println("number is odd");
+		} else if (number == 1686) {
+			System.out.println("number is even");
+		} else if (number == 1687) {
+			System.out.println("number is odd");
+		} else if (number == 1688) {
+			System.out.println("number is even");
+		} else if (number == 1689) {
+			System.out.println("number is odd");
+		} else if (number == 1690) {
+			System.out.println("number is even");
+		} else if (number == 1691) {
+			System.out.println("number is odd");
+		} else if (number == 1692) {
+			System.out.println("number is even");
+		} else if (number == 1693) {
+			System.out.println("number is odd");
+		} else if (number == 1694) {
+			System.out.println("number is even");
+		} else if (number == 1695) {
+			System.out.println("number is odd");
+		} else if (number == 1696) {
+			System.out.println("number is even");
+		} else if (number == 1697) {
+			System.out.println("number is odd");
+		} else if (number == 1698) {
+			System.out.println("number is even");
+		} else if (number == 1699) {
+			System.out.println("number is odd");
+		} else if (number == 1700) {
+			System.out.println("number is even");
+		} else if (number == 1701) {
+			System.out.println("number is odd");
+		} else if (number == 1702) {
+			System.out.println("number is even");
+		} else if (number == 1703) {
+			System.out.println("number is odd");
+		} else if (number == 1704) {
+			System.out.println("number is even");
+		} else if (number == 1705) {
+			System.out.println("number is odd");
+		} else if (number == 1706) {
+			System.out.println("number is even");
+		} else if (number == 1707) {
+			System.out.println("number is odd");
+		} else if (number == 1708) {
+			System.out.println("number is even");
+		} else if (number == 1709) {
+			System.out.println("number is odd");
+		} else if (number == 1710) {
+			System.out.println("number is even");
+		} else if (number == 1711) {
+			System.out.println("number is odd");
+		} else if (number == 1712) {
+			System.out.println("number is even");
+		} else if (number == 1713) {
+			System.out.println("number is odd");
+		} else if (number == 1714) {
+			System.out.println("number is even");
+		} else if (number == 1715) {
+			System.out.println("number is odd");
+		} else if (number == 1716) {
+			System.out.println("number is even");
+		} else if (number == 1717) {
+			System.out.println("number is odd");
+		} else if (number == 1718) {
+			System.out.println("number is even");
+		} else if (number == 1719) {
+			System.out.println("number is odd");
+		} else if (number == 1720) {
+			System.out.println("number is even");
+		} else if (number == 1721) {
+			System.out.println("number is odd");
+		} else if (number == 1722) {
+			System.out.println("number is even");
+		} else if (number == 1723) {
+			System.out.println("number is odd");
+		} else if (number == 1724) {
+			System.out.println("number is even");
+		} else if (number == 1725) {
+			System.out.println("number is odd");
+		} else if (number == 1726) {
+			System.out.println("number is even");
+		} else if (number == 1727) {
+			System.out.println("number is odd");
+		} else if (number == 1728) {
+			System.out.println("number is even");
+		} else if (number == 1729) {
+			System.out.println("number is odd");
+		} else if (number == 1730) {
+			System.out.println("number is even");
+		} else if (number == 1731) {
+			System.out.println("number is odd");
+		} else if (number == 1732) {
+			System.out.println("number is even");
+		} else if (number == 1733) {
+			System.out.println("number is odd");
+		} else if (number == 1734) {
+			System.out.println("number is even");
+		} else if (number == 1735) {
+			System.out.println("number is odd");
+		} else if (number == 1736) {
+			System.out.println("number is even");
+		} else if (number == 1737) {
+			System.out.println("number is odd");
+		} else if (number == 1738) {
+			System.out.println("number is even");
+		} else if (number == 1739) {
+			System.out.println("number is odd");
+		} else if (number == 1740) {
+			System.out.println("number is even");
+		} else if (number == 1741) {
+			System.out.println("number is odd");
+		} else if (number == 1742) {
+			System.out.println("number is even");
+		} else if (number == 1743) {
+			System.out.println("number is odd");
+		} else if (number == 1744) {
+			System.out.println("number is even");
+		} else if (number == 1745) {
+			System.out.println("number is odd");
+		} else if (number == 1746) {
+			System.out.println("number is even");
+		} else if (number == 1747) {
+			System.out.println("number is odd");
+		} else if (number == 1748) {
+			System.out.println("number is even");
+		} else if (number == 1749) {
+			System.out.println("number is odd");
+		} else if (number == 1750) {
+			System.out.println("number is even");
+		} else if (number == 1751) {
+			System.out.println("number is odd");
+		} else if (number == 1752) {
+			System.out.println("number is even");
+		} else if (number == 1753) {
+			System.out.println("number is odd");
+		} else if (number == 1754) {
+			System.out.println("number is even");
+		} else if (number == 1755) {
+			System.out.println("number is odd");
+		} else if (number == 1756) {
+			System.out.println("number is even");
+		} else if (number == 1757) {
+			System.out.println("number is odd");
+		} else if (number == 1758) {
+			System.out.println("number is even");
+		} else if (number == 1759) {
+			System.out.println("number is odd");
+		} else if (number == 1760) {
+			System.out.println("number is even");
+		} else if (number == 1761) {
+			System.out.println("number is odd");
+		} else if (number == 1762) {
+			System.out.println("number is even");
+		} else if (number == 1763) {
+			System.out.println("number is odd");
+		} else if (number == 1764) {
+			System.out.println("number is even");
+		} else if (number == 1765) {
+			System.out.println("number is odd");
+		} else if (number == 1766) {
+			System.out.println("number is even");
+		} else if (number == 1767) {
+			System.out.println("number is odd");
+		} else if (number == 1768) {
+			System.out.println("number is even");
+		} else if (number == 1769) {
+			System.out.println("number is odd");
+		} else if (number == 1770) {
+			System.out.println("number is even");
+		} else if (number == 1771) {
+			System.out.println("number is odd");
+		} else if (number == 1772) {
+			System.out.println("number is even");
+		} else if (number == 1773) {
+			System.out.println("number is odd");
+		} else if (number == 1774) {
+			System.out.println("number is even");
+		} else if (number == 1775) {
+			System.out.println("number is odd");
+		} else if (number == 1776) {
+			System.out.println("number is even");
+		} else if (number == 1777) {
+			System.out.println("number is odd");
+		} else if (number == 1778) {
+			System.out.println("number is even");
+		} else if (number == 1779) {
+			System.out.println("number is odd");
+		} else if (number == 1780) {
+			System.out.println("number is even");
+		} else if (number == 1781) {
+			System.out.println("number is odd");
+		} else if (number == 1782) {
+			System.out.println("number is even");
+		} else if (number == 1783) {
+			System.out.println("number is odd");
+		} else if (number == 1784) {
+			System.out.println("number is even");
+		} else if (number == 1785) {
+			System.out.println("number is odd");
+		} else if (number == 1786) {
+			System.out.println("number is even");
+		} else if (number == 1787) {
+			System.out.println("number is odd");
+		} else if (number == 1788) {
+			System.out.println("number is even");
+		} else if (number == 1789) {
+			System.out.println("number is odd");
+		} else if (number == 1790) {
+			System.out.println("number is even");
+		} else if (number == 1791) {
+			System.out.println("number is odd");
+		} else if (number == 1792) {
+			System.out.println("number is even");
+		} else if (number == 1793) {
+			System.out.println("number is odd");
+		} else if (number == 1794) {
+			System.out.println("number is even");
+		} else if (number == 1795) {
+			System.out.println("number is odd");
+		} else if (number == 1796) {
+			System.out.println("number is even");
+		} else if (number == 1797) {
+			System.out.println("number is odd");
+		} else if (number == 1798) {
+			System.out.println("number is even");
+		} else if (number == 1799) {
+			System.out.println("number is odd");
+		} else if (number == 1800) {
+			System.out.println("number is even");
+		} else if (number == 1801) {
+			System.out.println("number is odd");
+		} else if (number == 1802) {
+			System.out.println("number is even");
+		} else if (number == 1803) {
+			System.out.println("number is odd");
+		} else if (number == 1804) {
+			System.out.println("number is even");
+		} else if (number == 1805) {
+			System.out.println("number is odd");
+		} else if (number == 1806) {
+			System.out.println("number is even");
+		} else if (number == 1807) {
+			System.out.println("number is odd");
+		} else if (number == 1808) {
+			System.out.println("number is even");
+		} else if (number == 1809) {
+			System.out.println("number is odd");
+		} else if (number == 1810) {
+			System.out.println("number is even");
+		} else if (number == 1811) {
+			System.out.println("number is odd");
+		} else if (number == 1812) {
+			System.out.println("number is even");
+		} else if (number == 1813) {
+			System.out.println("number is odd");
+		} else if (number == 1814) {
+			System.out.println("number is even");
+		} else if (number == 1815) {
+			System.out.println("number is odd");
+		} else if (number == 1816) {
+			System.out.println("number is even");
+		} else if (number == 1817) {
+			System.out.println("number is odd");
+		} else if (number == 1818) {
+			System.out.println("number is even");
+		} else if (number == 1819) {
+			System.out.println("number is odd");
+		} else if (number == 1820) {
+			System.out.println("number is even");
+		} else if (number == 1821) {
+			System.out.println("number is odd");
+		} else if (number == 1822) {
+			System.out.println("number is even");
+		} else if (number == 1823) {
+			System.out.println("number is odd");
+		} else if (number == 1824) {
+			System.out.println("number is even");
+		} else if (number == 1825) {
+			System.out.println("number is odd");
+		} else if (number == 1826) {
+			System.out.println("number is even");
+		} else if (number == 1827) {
+			System.out.println("number is odd");
+		} else if (number == 1828) {
+			System.out.println("number is even");
+		} else if (number == 1829) {
+			System.out.println("number is odd");
+		} else if (number == 1830) {
+			System.out.println("number is even");
+		} else if (number == 1831) {
+			System.out.println("number is odd");
+		} else if (number == 1832) {
+			System.out.println("number is even");
+		} else if (number == 1833) {
+			System.out.println("number is odd");
+		} else if (number == 1834) {
+			System.out.println("number is even");
+		} else if (number == 1835) {
+			System.out.println("number is odd");
+		} else if (number == 1836) {
+			System.out.println("number is even");
+		} else if (number == 1837) {
+			System.out.println("number is odd");
+		} else if (number == 1838) {
+			System.out.println("number is even");
+		} else if (number == 1839) {
+			System.out.println("number is odd");
+		} else if (number == 1840) {
+			System.out.println("number is even");
+		} else if (number == 1841) {
+			System.out.println("number is odd");
+		} else if (number == 1842) {
+			System.out.println("number is even");
+		} else if (number == 1843) {
+			System.out.println("number is odd");
+		} else if (number == 1844) {
+			System.out.println("number is even");
+		} else if (number == 1845) {
+			System.out.println("number is odd");
+		} else if (number == 1846) {
+			System.out.println("number is even");
+		} else if (number == 1847) {
+			System.out.println("number is odd");
+		} else if (number == 1848) {
+			System.out.println("number is even");
+		} else if (number == 1849) {
+			System.out.println("number is odd");
+		} else if (number == 1850) {
+			System.out.println("number is even");
+		} else if (number == 1851) {
+			System.out.println("number is odd");
+		} else if (number == 1852) {
+			System.out.println("number is even");
+		} else if (number == 1853) {
+			System.out.println("number is odd");
+		} else if (number == 1854) {
+			System.out.println("number is even");
+		} else if (number == 1855) {
+			System.out.println("number is odd");
+		} else if (number == 1856) {
+			System.out.println("number is even");
+		} else if (number == 1857) {
+			System.out.println("number is odd");
+		} else if (number == 1858) {
+			System.out.println("number is even");
+		} else if (number == 1859) {
+			System.out.println("number is odd");
+		} else if (number == 1860) {
+			System.out.println("number is even");
+		} else if (number == 1861) {
+			System.out.println("number is odd");
+		} else if (number == 1862) {
+			System.out.println("number is even");
+		} else if (number == 1863) {
+			System.out.println("number is odd");
+		} else if (number == 1864) {
+			System.out.println("number is even");
+		} else if (number == 1865) {
+			System.out.println("number is odd");
+		} else if (number == 1866) {
+			System.out.println("number is even");
+		} else if (number == 1867) {
+			System.out.println("number is odd");
+		} else if (number == 1868) {
+			System.out.println("number is even");
+		} else if (number == 1869) {
+			System.out.println("number is odd");
+		} else if (number == 1870) {
+			System.out.println("number is even");
+		} else if (number == 1871) {
+			System.out.println("number is odd");
+		} else if (number == 1872) {
+			System.out.println("number is even");
+		} else if (number == 1873) {
+			System.out.println("number is odd");
+		} else if (number == 1874) {
+			System.out.println("number is even");
+		} else if (number == 1875) {
+			System.out.println("number is odd");
+		} else if (number == 1876) {
+			System.out.println("number is even");
+		} else if (number == 1877) {
+			System.out.println("number is odd");
+		} else if (number == 1878) {
+			System.out.println("number is even");
+		} else if (number == 1879) {
+			System.out.println("number is odd");
+		} else if (number == 1880) {
+			System.out.println("number is even");
+		} else if (number == 1881) {
+			System.out.println("number is odd");
+		} else if (number == 1882) {
+			System.out.println("number is even");
+		} else if (number == 1883) {
+			System.out.println("number is odd");
+		} else if (number == 1884) {
+			System.out.println("number is even");
+		} else if (number == 1885) {
+			System.out.println("number is odd");
+		} else if (number == 1886) {
+			System.out.println("number is even");
+		} else if (number == 1887) {
+			System.out.println("number is odd");
+		} else if (number == 1888) {
+			System.out.println("number is even");
+		} else if (number == 1889) {
+			System.out.println("number is odd");
+		} else if (number == 1890) {
+			System.out.println("number is even");
+		} else if (number == 1891) {
+			System.out.println("number is odd");
+		} else if (number == 1892) {
+			System.out.println("number is even");
+		} else if (number == 1893) {
+			System.out.println("number is odd");
+		} else if (number == 1894) {
+			System.out.println("number is even");
+		} else if (number == 1895) {
+			System.out.println("number is odd");
+		} else if (number == 1896) {
+			System.out.println("number is even");
+		} else if (number == 1897) {
+			System.out.println("number is odd");
+		} else if (number == 1898) {
+			System.out.println("number is even");
+		} else if (number == 1899) {
+			System.out.println("number is odd");
+		} else if (number == 1900) {
+			System.out.println("number is even");
+		} else if (number == 1901) {
+			System.out.println("number is odd");
+		} else if (number == 1902) {
+			System.out.println("number is even");
+		} else if (number == 1903) {
+			System.out.println("number is odd");
+		} else if (number == 1904) {
+			System.out.println("number is even");
+		} else if (number == 1905) {
+			System.out.println("number is odd");
+		} else if (number == 1906) {
+			System.out.println("number is even");
+		} else if (number == 1907) {
+			System.out.println("number is odd");
+		} else if (number == 1908) {
+			System.out.println("number is even");
+		} else if (number == 1909) {
+			System.out.println("number is odd");
+		} else if (number == 1910) {
+			System.out.println("number is even");
+		} else if (number == 1911) {
+			System.out.println("number is odd");
+		} else if (number == 1912) {
+			System.out.println("number is even");
+		} else if (number == 1913) {
+			System.out.println("number is odd");
+		} else if (number == 1914) {
+			System.out.println("number is even");
+		} else if (number == 1915) {
+			System.out.println("number is odd");
+		} else if (number == 1916) {
+			System.out.println("number is even");
+		} else if (number == 1917) {
+			System.out.println("number is odd");
+		} else if (number == 1918) {
+			System.out.println("number is even");
+		} else if (number == 1919) {
+			System.out.println("number is odd");
+		} else if (number == 1920) {
+			System.out.println("number is even");
+		} else if (number == 1921) {
+			System.out.println("number is odd");
+		} else if (number == 1922) {
+			System.out.println("number is even");
+		} else if (number == 1923) {
+			System.out.println("number is odd");
+		} else if (number == 1924) {
+			System.out.println("number is even");
+		} else if (number == 1925) {
+			System.out.println("number is odd");
+		} else if (number == 1926) {
+			System.out.println("number is even");
+		} else if (number == 1927) {
+			System.out.println("number is odd");
+		} else if (number == 1928) {
+			System.out.println("number is even");
+		} else if (number == 1929) {
+			System.out.println("number is odd");
+		} else if (number == 1930) {
+			System.out.println("number is even");
+		} else if (number == 1931) {
+			System.out.println("number is odd");
+		} else if (number == 1932) {
+			System.out.println("number is even");
+		} else if (number == 1933) {
+			System.out.println("number is odd");
+		} else if (number == 1934) {
+			System.out.println("number is even");
+		} else if (number == 1935) {
+			System.out.println("number is odd");
+		} else if (number == 1936) {
+			System.out.println("number is even");
+		} else if (number == 1937) {
+			System.out.println("number is odd");
+		} else if (number == 1938) {
+			System.out.println("number is even");
+		} else if (number == 1939) {
+			System.out.println("number is odd");
+		} else if (number == 1940) {
+			System.out.println("number is even");
+		} else if (number == 1941) {
+			System.out.println("number is odd");
+		} else if (number == 1942) {
+			System.out.println("number is even");
+		} else if (number == 1943) {
+			System.out.println("number is odd");
+		} else if (number == 1944) {
+			System.out.println("number is even");
+		} else if (number == 1945) {
+			System.out.println("number is odd");
+		} else if (number == 1946) {
+			System.out.println("number is even");
+		} else if (number == 1947) {
+			System.out.println("number is odd");
+		} else if (number == 1948) {
+			System.out.println("number is even");
+		} else if (number == 1949) {
+			System.out.println("number is odd");
+		} else if (number == 1950) {
+			System.out.println("number is even");
+		} else if (number == 1951) {
+			System.out.println("number is odd");
+		} else if (number == 1952) {
+			System.out.println("number is even");
+		} else if (number == 1953) {
+			System.out.println("number is odd");
+		} else if (number == 1954) {
+			System.out.println("number is even");
+		} else if (number == 1955) {
+			System.out.println("number is odd");
+		} else if (number == 1956) {
+			System.out.println("number is even");
+		} else if (number == 1957) {
+			System.out.println("number is odd");
+		} else if (number == 1958) {
+			System.out.println("number is even");
+		} else if (number == 1959) {
+			System.out.println("number is odd");
+		} else if (number == 1960) {
+			System.out.println("number is even");
+		} else if (number == 1961) {
+			System.out.println("number is odd");
+		} else if (number == 1962) {
+			System.out.println("number is even");
+		} else if (number == 1963) {
+			System.out.println("number is odd");
+		} else if (number == 1964) {
+			System.out.println("number is even");
+		} else if (number == 1965) {
+			System.out.println("number is odd");
+		} else if (number == 1966) {
+			System.out.println("number is even");
+		} else if (number == 1967) {
+			System.out.println("number is odd");
+		} else if (number == 1968) {
+			System.out.println("number is even");
+		} else if (number == 1969) {
+			System.out.println("number is odd");
+		} else if (number == 1970) {
+			System.out.println("number is even");
+		} else if (number == 1971) {
+			System.out.println("number is odd");
+		} else if (number == 1972) {
+			System.out.println("number is even");
+		} else if (number == 1973) {
+			System.out.println("number is odd");
+		} else if (number == 1974) {
+			System.out.println("number is even");
+		} else if (number == 1975) {
+			System.out.println("number is odd");
+		} else if (number == 1976) {
+			System.out.println("number is even");
+		} else if (number == 1977) {
+			System.out.println("number is odd");
+		} else if (number == 1978) {
+			System.out.println("number is even");
+		} else if (number == 1979) {
+			System.out.println("number is odd");
+		} else if (number == 1980) {
+			System.out.println("number is even");
+		} else if (number == 1981) {
+			System.out.println("number is odd");
+		} else if (number == 1982) {
+			System.out.println("number is even");
+		} else if (number == 1983) {
+			System.out.println("number is odd");
+		} else if (number == 1984) {
+			System.out.println("number is even");
+		} else if (number == 1985) {
+			System.out.println("number is odd");
+		} else if (number == 1986) {
+			System.out.println("number is even");
+		} else if (number == 1987) {
+			System.out.println("number is odd");
+		} else if (number == 1988) {
+			System.out.println("number is even");
+		} else if (number == 1989) {
+			System.out.println("number is odd");
+		} else if (number == 1990) {
+			System.out.println("number is even");
+		} else if (number == 1991) {
+			System.out.println("number is odd");
+		} else if (number == 1992) {
+			System.out.println("number is even");
+		} else if (number == 1993) {
+			System.out.println("number is odd");
+		} else if (number == 1994) {
+			System.out.println("number is even");
+		} else if (number == 1995) {
+			System.out.println("number is odd");
+		} else if (number == 1996) {
+			System.out.println("number is even");
+		} else if (number == 1997) {
+			System.out.println("number is odd");
+		} else if (number == 1998) {
+			System.out.println("number is even");
+		} else if (number == 1999) {
+			System.out.println("number is odd");
+		} else if (number == 2000) {
+			System.out.println("number is even");
 		}
 	}
 }

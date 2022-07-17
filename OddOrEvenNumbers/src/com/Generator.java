@@ -14,7 +14,7 @@ public class Generator {
 		try {
 			
 			BufferedWriter writer =new BufferedWriter(new FileWriter(path));
-			for (int i = 0; i < 1000; i++) {
+			for (int i = 1000; i < 2000; i++) {
 				writer.write(	"\t\t} else if (number == "+(i+1)+") {\r\n" + 
 						"			System.out.println(\"number is odd\");\r\n");
 				i++;
